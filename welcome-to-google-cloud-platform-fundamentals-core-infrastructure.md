@@ -4,6 +4,7 @@
 
 * 4 services:
   * Compute, big data, machine learning, storage
+  * why is Google Cloud unique
 
 
 ## Cloud computing:
